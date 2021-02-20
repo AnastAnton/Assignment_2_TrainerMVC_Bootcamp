@@ -1,0 +1,12 @@
+org\pcedu\trainermvc\configuration\AppConfig.class
+org\pcedu\trainermvc\dao\ITrainerDao.class
+org\pcedu\trainermvc\TrainerMvcApplication.class
+org\pcedu\trainermvc\controllers\TrainerController.class
+org\pcedu\trainermvc\dao\AbstractDao.class
+org\pcedu\trainermvc\ServletInitializer.class
+org\pcedu\trainermvc\services\ITrainer.class
+org\pcedu\trainermvc\configuration\HibernateConfiguration.class
+org\pcedu\trainermvc\configuration\AppInitializer.class
+org\pcedu\trainermvc\entities\Trainer.class
+org\pcedu\trainermvc\services\TrainerService.class
+org\pcedu\trainermvc\dao\TrainerDao.class
